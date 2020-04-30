@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+    <string-array name="options">
+        <item>india</item>
+        <item>america</item>
+        <item>australia</item>
+        <item>southafrica</item>
+        <item>westindies</item>
+    </string-array>
+
+
+</resources>
